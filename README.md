@@ -1,1 +1,3 @@
 # odin-recipes
+This is my first Odin Project. This project should help further sharpen skills that I have already learned and should also serve as a reminder of where I started and how far I've. There is much more to learn but I will keep pushing one day at a time. 
+At the end of this project I hope to demonstrate my new knowledge about Github and HTML and how to build on these skills for future projects.
